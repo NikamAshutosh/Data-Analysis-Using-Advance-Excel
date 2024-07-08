@@ -3,17 +3,17 @@
 **Project Overview**
 
 **Project Goal:**
-To analyze store sales data to uncover trends, identify key insights, and make data-driven decisions to improve business performance.
+To analyze "Vrinda store" sales data to uncover trends, identify key insights, and make data-driven decisions to improve business performance.
 
 **1) Project Objectives:-**
 
 **Data Collection and Preparation:**
-Gather sales data from different store locations or product categories.
+Gathered sales data from store location and as well as product categories.
 Clean and format the data to ensure accuracy and consistency.
 
 **Data Analysis:**
 Perform exploratory data analysis (EDA) to understand the distribution and patterns in sales data.
-Identify top-selling products, best-performing stores, and seasonal trends.
+Identify top-selling products, best-performing States, and seasonal trends.
 
 **Visualization and Dashboard Creation:**
 Create interactive dashboards using Excel to visualize sales performance.
